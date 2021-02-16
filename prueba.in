@@ -1,0 +1,3 @@
+int variable;
+float[12] arrfl;
+int[42] arrint;
